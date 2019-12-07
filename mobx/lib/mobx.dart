@@ -62,4 +62,5 @@ export 'package:mobx/src/core.dart'
         ReactionImpl,
         DerivationState;
 
-const version = '0.3.9+1';
+/// The current version as per `pubspec.yaml`
+const version = '0.3.9+3';
